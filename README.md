@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi! I'm Sara :)
 
-<!--
-**saraxlinnea/saraxlinnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Account manager in EV charging infrastructure at bp pulse, San Francisco. 
+Environmental science background, thesis on DNA degradation kinetics in stranded marine mammals.
 
-Here are some ideas to get you started:
+I build a lot of projects with public energy and climate data. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data projects**
+
+- [california-net-load](link) — duck curve viz, CAISO and CEC IEPR data
+- [wildfire-prevention-viz](link) — utility ignition data on top of 
+  CAISO/CEC/AFDC infrastructure layers
+- [ocean-heat-stress](link) — marine heatwave detection, Hobday method, 
+  nightly GitHub Actions refresh
+
+**Fun projects**
+
+- [[caffeine calculator](https://saraxlinnea.github.io/caffeine-calculator/)] — how much coffee should you be drinking??
+- [[Zero's Website](https://saraxlinnea.github.io/zero/)] — dog's website
+- [Kay Climate Game](https://saraxlinnea.github.io/kaya-climate-game/)] — climate game
+- [[Mama's Website](https://saraxlinnea.github.io/wildandwoolyworld/)] - buy some art!!
