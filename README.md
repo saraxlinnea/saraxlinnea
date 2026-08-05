@@ -15,7 +15,7 @@ I build a lot of projects with public energy and climate data.
 
 **Fun projects**
 
-- [[caffeine calculator](https://saraxlinnea.github.io/caffeine-calculator/)] — how much coffee should you be drinking??
-- [[Zero's Website](https://saraxlinnea.github.io/zero/)] — dog's website
-- [Kay Climate Game](https://saraxlinnea.github.io/kaya-climate-game/)] — climate game
-- [[Mama's Website](https://saraxlinnea.github.io/wildandwoolyworld/)] - buy some art!!
+- [caffeine calculator(https://saraxlinnea.github.io/caffeine-calculator/)] — how much coffee should you be drinking??
+- [Zero's Websit](https://saraxlinnea.github.io/zero/)] — dog's website
+- [Kaya Climate Game(https://saraxlinnea.github.io/kaya-climate-game/)] — climate game
+- [Mama's Website(https://saraxlinnea.github.io/wildandwoolyworld/)] - buy some art!!
